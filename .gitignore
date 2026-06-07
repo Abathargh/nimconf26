@@ -1,0 +1,6 @@
+deps/
+.idea/
+nim.cfg
+
+nimconf26
+*.html
